@@ -1,4 +1,4 @@
-body {
+body {  
 	font-family: Helvetica, sans-serif;
 	height: 100%;
 	margin: 0;
@@ -18,7 +18,6 @@ h2 {
 
 
 .hero {
-	background-color: wheat;
 	padding:250px 0;
 	margin: 0px;
 	font-family: 'Trebuchet MS', 'Helvetica';
@@ -28,6 +27,8 @@ ul {
   background-color: Tan;
   background: #3399ff;
   padding: 20px;
+  font-family: Favorit Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: 400;
 }
 
 p {
@@ -35,9 +36,11 @@ p {
 	font-size: 2em;
 }
 
+
+
 .hero a {
-	color: #00FFAA;
-	font-size: 24px;
+	color: #4d2f00;
+	font-size: 20px;
 	text-decoration: none;
 }
 
