@@ -23,6 +23,13 @@ section {
 	text-size-adjust:100%;
 }
 
+header {
+	display:block;
+	box-sizing:content-box;
+	line-height:29.88px;
+	
+}
+
 h1 {
 	font-size: 32px;
 }
