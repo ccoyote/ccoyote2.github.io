@@ -40,6 +40,7 @@ p {
 
 li {
 	box-sizing: inherit;
+	list-style-type: none
 }
 
 .site-nav--forward:before {
