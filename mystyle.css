@@ -24,10 +24,12 @@ h2 {
 }
 
 ul {
-  background-color: Tan;
   padding: 20px;
   font-family: Favorit Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
   font-weight: 400;
+  font-size: 28px;
+  font-feature-settings: kern;
+  line-height:46.48px;
 }
 
 p {
