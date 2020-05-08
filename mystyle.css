@@ -21,6 +21,7 @@ section {
 	max-width:585px;
 	min-width:235px;
 	text-size-adjust:100%;
+	position: absolute;
 }
 
 header {
