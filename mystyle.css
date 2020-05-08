@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-color: wheat;
+	background: wheat;
 }
 
 h1 {
@@ -25,7 +25,6 @@ h2 {
 
 ul {
   background-color: Tan;
-  background: #3399ff;
   padding: 20px;
   font-family: Favorit Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
   font-weight: 400;
