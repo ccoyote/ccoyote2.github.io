@@ -33,7 +33,7 @@ header {
 
 h1 {
 	font-size: 32px;
-	font-weight:400;
+	font-weight:600;
 	line-height:31px;
 	margin-bottom:5px;
 	margin-top:20.77px;
@@ -54,7 +54,7 @@ h2 {
 ul {
   padding: 0px;
   font-family: Favorit Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 28px;
   font-feature-settings: kern;
   line-height:46.48px;
