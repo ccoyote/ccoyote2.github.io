@@ -79,6 +79,7 @@ li {
     content: "\2192  ";
     position: relative;
     top: -2px;
+    box-sizing:content-box;
 }
 
 .hero a {
