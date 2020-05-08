@@ -25,6 +25,18 @@ section {
 	position: absolute;
 }
 
+#section2 {
+    box-sizing:content-box;
+    box-sizing: inherit;
+    display:block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+}
 
 header {
 	display:block;
