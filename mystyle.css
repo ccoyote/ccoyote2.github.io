@@ -42,7 +42,7 @@ li {
 }
 
 .site-nav--forward:before {
-    content: "\2192 ";
+    content: "\2192  ";
     position: relative;
     top: -2px;
 }
